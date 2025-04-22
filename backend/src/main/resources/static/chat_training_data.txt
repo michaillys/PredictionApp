@@ -1,0 +1,26 @@
+__label__syntax How to declare a variable in Java?
+__label__syntax What does `int x = 5;` mean?
+__label__syntax How do I write an if-else statement?
+__label__syntax Java syntax for switch case?
+__label__syntax What is the syntax for a for loop in Java?
+__label__syntax How to define a method in Java?
+__label__oop What is inheritance in Java?
+__label__oop How does polymorphism work?
+__label__oop What is encapsulation in Java?
+__label__oop Explain abstraction with an example.
+__label__oop Java class vs object?
+__label__oop What are interfaces used for?
+__label__exception How to handle exceptions in Java?
+__label__exception What does try-catch mean?
+__label__exception What is the difference between checked and unchecked exceptions?
+__label__exception Java NullPointerException explanation
+__label__exception When to use finally block?
+__label__collections What is ArrayList in Java?
+__label__collections Java HashMap usage?
+__label__collections What is the difference between Set and List?
+__label__collections How to iterate over a Map?
+__label__collections Which collection is thread-safe?
+__label__lambda What is a lambda expression in Java?
+__label__lambda How to use lambda with streams?
+__label__lambda Java functional interfaces?
+__label__lambda Can lambda replace anonymous class?
